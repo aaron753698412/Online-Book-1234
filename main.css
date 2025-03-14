@@ -1,0 +1,17 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+header {
+    font-weight: bold;
+}
+
+#proxyForm {
+    background-color: #ffffff;
+    padding: 20px;
+    border-radius: 8px;
+}
+
+#proxyContent {
+    display: none;
+}
